@@ -1,0 +1,41 @@
+.form
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.field
+{
+    width: 400px;
+    height: 40px;
+    margin: 5px;
+    outline: none;
+    font-size: 18px;
+    border-radius: 5px;
+    padding-left: 10px;
+    border: none;
+}
+
+.submit-btn
+{
+    width: 400px;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: rgb(37, 179, 98);
+    font-size: 18px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+    margin-top: 10px;
+}
+
+.submit-btn:hover
+{
+    background-color: rgb(47, 226, 47);
+    transition: 0.3s;
+    letter-spacing: 8px;
+}

@@ -1,0 +1,37 @@
+.watchlist
+{
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.card
+{
+    width: 250px !important;
+    height: 250px !important;
+    margin: 5px;
+}
+
+.card-img-top
+{
+    height: 200px !important;
+}
+
+.card-img-top img
+{
+    width: 100% !important;
+}
+
+
+.history
+{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
